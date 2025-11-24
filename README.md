@@ -7,4 +7,3 @@
 - 💬 Pergunte-me sobre desenvolvimento, automação, produtividade e ferramentas de IA.
 - 📫 Como entrar em contato comigo: willianjosueh@gmail.com ou via LinkedIn pelo link: https://www.linkedin.com/in/william-josu%C3%A9-96a412278/.
 - ⚡ Curiosidade divertida: Adoro explorar novas tecnologias e encontrar formas criativas de resolver problemas do dia a dia!
--->
