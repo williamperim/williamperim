@@ -1,9 +1,4 @@
-## Olá 👋
-
-<!--
-**williamperim/williamperim** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
-
-Aqui estão algumas ideias para você começar:
+## Olá 
 
 - 🔭 Atualmente estou trabalhando em projetos de tecnologia e automação com foco em produtividade.
 - 🌱 Atualmente estou aprendendo mais sobre inteligência artificial e desenvolvimento de soluções com IA.
